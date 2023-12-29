@@ -1,5 +1,5 @@
 # Projeto---Parte-I-
-Modelo Entidade Relacionamento, Modelo de Classes e Mapeamento Objeto-Relacional
+Modelo Entidade Relacionamento, Modelo de Classes e Mapeamento Objeto-Relacional de um jogo 2d
 
   <h1 align="center">Diagrama MER</h1>
   <div align="center">
